@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Levels/LevelOne.umap"
+			]
+		}
+	]
+}
