@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Enemy/Enemy_bp.uasset",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Levels/LevelOne.umap",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Enemy/PatrolPath-.uasset",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Health/Health_bp.uasset",
+=======
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/cherry/cherry-4.uasset",
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/cherry/cherry-3.uasset",
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/cherry/cherry-2.uasset",
@@ -145,6 +151,7 @@
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/gem/gem-3_Sprite.uasset",
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/gem/gem-4_Sprite.uasset",
 				"F:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Tyler/SunnyLandAssests/sprites/gem/gem-5_Sprite.uasset",
+>>>>>>> 098eff347aaf9a745a81889cea7a7983ea97d6ed
 				"E:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Levels/LevelOne.umap"
 			]
 		}
