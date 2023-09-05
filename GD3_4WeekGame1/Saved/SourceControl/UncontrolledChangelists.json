@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Enemy/Enemy_bp.uasset",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Levels/LevelOne.umap",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Enemy/PatrolPath-.uasset",
+				"C:/GitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Ricardo/Health/Health_bp.uasset",
+				"E:/Class work/GameGitHub/4-Week-Game-one/GD3_4WeekGame1/Content/Levels/LevelOne.umap"
+			]
+		}
+	]
+}
